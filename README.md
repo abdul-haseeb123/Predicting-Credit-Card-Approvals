@@ -5,6 +5,8 @@
 
 This project aims to automate the credit card approval process using machine learning techniques. By building a predictive model, we can save time and effort typically spent on manually analyzing credit card applications. The model will assess various factors such as loan balances, income levels, and credit report inquiries to determine the likelihood of approval.
 
+## View this Notebook On Kaggle, [Kaggle](https://www.kaggle.com/code/syedabdulhaseebds/predicting-credit-card-approvals)
+
 ## Dataset
 
 The dataset used in this project is the Credit Card Approval dataset from the UCI Machine Learning Repository. Due to confidentiality, the contributor has anonymized the feature names. The dataset contains a combination of numerical and non-numerical features, with values spanning different ranges. Additionally, there are missing entries that need to be addressed during preprocessing.
